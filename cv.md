@@ -20,6 +20,8 @@
 <p><strong>A2</strong></p>
   </main>
   <footer>
+  <p><a href="https://github.com/oksanato">oksanato</a></p>
+  2022
   <p><img src="https://rs.school/images/rs_school_js.svg" width="100" height="111" alt="logo"></p>
 <a href="https://rs.school/js/">Курс «JavaScript/Front-end»</a>
 
