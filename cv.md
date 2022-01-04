@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<head>
-  <title>Oksana Nizaeva CV</title>
-</head>
 <header>
 <h1><strong>Oksana Nizaeva</strong></h1>
  <p><img src="https://sun9-82.userapi.com/impg/J4uKgjgQdRYuIl957pnWM1fdJImrRmUNrvXP1w/nksTcqVAmhI.jpg?size=463x337&quality=96&sign=a40734b3e1df8fd8e2f2a245471fb356&type=album" alt="photo"></p>
