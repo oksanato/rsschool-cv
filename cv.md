@@ -1,6 +1,6 @@
 <header>
 <h1><strong>Oksana Nizaeva</strong></h1>
-<p><img src="https://sun9-75.userapi.com/impf/c604527/v604527915/1ba90/G09J2WavB2Y.jpg?size=1620x2160&quality=96&sign=f37efbbbb1ab4451823b1a9d0d526d62&type=album" width="20%" height="20%" alt="photo"></p>
+<p><img src="https://sun9-82.userapi.com/impg/J4uKgjgQdRYuIl957pnWM1fdJImrRmUNrvXP1w/nksTcqVAmhI.jpg?size=463x337&quality=96&sign=a40734b3e1df8fd8e2f2a245471fb356&type=album" alt="photo"></p>
 
 <h2><strong>Contacts</strong></h2>
 <ul>
